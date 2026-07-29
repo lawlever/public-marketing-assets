@@ -7,6 +7,21 @@ tabela.
 
 | Publicado em | Série | Ep. | Formato | Camada | Legenda (início) | id |
 |---|---|---|---|---|---|---|
+| 2026-07-21 22:02 | lawlever-responde | - | reel | topo | Banco de horas que nunca vira folga vira o quê? 👀 | `6a4ffdf6283a3008dde0050e` |
+| 2026-07-19 22:02 | - | - | imagem | topo | Levou multa de trânsito? Na maioria das vezes dá para recor… | `6a42f1b62ad14bcf73d3d328` |
+| 2026-07-19 01:25 | - | - | reel | fundo | Plano de saúde negou exame, cirurgia ou internação? Dá pra … | `6a42f185987216ca6f629f60` |
+| 2026-07-17 22:02 | - | - | reel | topo | Herança no Brasil: posso deixar tudo para uma só pessoa? Te… | `6a42f1a8dafcb997a6c3acb5` |
+| 2026-07-16 22:00 | caso-da-semana | - | reel | topo | Neste #OCasoDaSemana falamos sobre aquelas dívidas que não … | `6a595e76b2015b7e46d7593e` |
+| 2026-07-16 21:02 | - | - | carrossel | topo | Vai emprestar dinheiro pra um amigo ou parente? Antes de fa… | `6a503709f50a99bddccbb0c0` |
+| 2026-07-15 22:03 | - | - | reel | meio | Dúvida jurídica não precisa virar processo caro. Na LawLeve… | `6a42f19f5383c03473b603dd` |
+| 2026-07-14 22:02 | lawlever-responde | - | reel | topo | Grávida e com medo de ser mandada embora? A lei está do seu… | `6a501f2806672c5e9f592821` |
+| 2026-07-13 22:02 | - | - | reel | fundo | PJ ou CLT? Te ofereceram pra trabalhar como pessoa jurídica… | `6a42f192c1a435f7fb025025` |
+| 2026-07-12 21:01 | depende-do-seu-caso | - | reel | meio | Sair do aluguel antes do fim do contrato: tem que pagar mul… | `6a5036e9f50a99bddccbafc8` |
+| 2026-07-10 20:01 | caso-da-semana | - | reel | meio | SÓ O BOT NÃO BASTA: quando a IA jurídica resolve — e quando… | `6a50075a321614183a1f41d1` |
+| 2026-07-08 13:07 | - | - | reel | meio | O agente de whatsapp da LawLever cria os documentos que voc… | `6a4e445226100a3a520ec4a4` |
+| 2026-07-07 22:02 | - | - | reel | topo | Cobrança indevida: você pode ter direito à devolução EM DOB… | `6a3d8e35674253f4d2e499b1` |
+| 2026-07-05 22:01 | - | - | reel | topo | Golpe do Pix / maquininha: o banco tem que devolver? 🚨 | `6a3d8e48a5a186805749c667` |
+| 2026-07-03 22:00 | caso-da-semana | - | reel | topo | No #OCasoDaSemana de hoje, falo sobre pontos que inquilinos… | `6a48830e0bd75df47385c905` |
 | 2026-07-01 22:03 | - | - | reel | topo | Licença-paternidade nova: já são 20 dias? Ainda NÃO. 👶 | `6a3d8e2accddba60bf1af0fe` |
 | 2026-06-29 22:43 | - | - | reel | topo | Pode usar a bandeira do Brasil como roupa? Pode tocar o hin… | `6a42f4e4e7214a508c98e8a4` |
 | 2026-06-28 12:02 | - | - | reel | meio | A diferença não é só "ter uma IA". É você no controle do pr… | `6a399def77a0c9a46f6bba5d` |
