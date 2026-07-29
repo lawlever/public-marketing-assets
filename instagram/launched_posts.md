@@ -7,6 +7,17 @@ tabela.
 
 | Publicado em | Série | Ep. | Formato | Camada | Legenda (início) | id |
 |---|---|---|---|---|---|---|
+| 2026-07-28 22:02 | lawlever-responde | - | reel | topo | Produto novo veio com defeito e ninguém resolve? O CDC te d… | `6a501f3a6d6f799272e4a552` |
+| 2026-07-26 21:01 | depende-do-seu-caso | - | reel | meio | Barulho do vizinho de madrugada: dá pra tomar alguma medida… | `6a50371cf50a99bddccbb0f5` |
+| 2026-07-23 22:02 | lawlever-responde | - | reel | topo | Demitido sem justa causa? Antes de assinar a rescisão, saib… | `6a50152d9f213e320040f238` |
+| 2026-07-23 20:49 | - | - | reel | topo | Fale com o bot da LawLever agora! Link na bio | `6a627ed265a1eb812d748810` |
+| 2026-07-22 23:35 | - | - | reel | meio | Saiba mais em lawlever.ai | `6a61c8941ac81f3e41de3569` |
+| 2026-07-22 23:32 | - | - | reel | meio | Saiba mais em lawlever.ai | `6a61c8941ac81f3e41de3563` |
+| 2026-07-22 23:21 | - | - | reel | meio | Saiba mais em lawlever.ai | `6a61c8941ac81f3e41de3582` |
+| 2026-07-22 23:19 | - | - | reel | meio | Saiba mais em lawlever.ai | `6a61c8941ac81f3e41de358c` |
+| 2026-07-22 23:16 | - | - | reel | meio | Saiba mais lawlever.ai | `6a61c8941ac81f3e41de3585` |
+| 2026-07-22 23:13 | - | - | reel | meio | Saiba mais em lawlever.ai | `6a61c8941ac81f3e41de357a` |
+| 2026-07-22 23:12 | - | - | reel | meio | Saiba mais em lawlever.ai | `6a61c8941ac81f3e41de357e` |
 | 2026-07-21 22:02 | lawlever-responde | - | reel | topo | Banco de horas que nunca vira folga vira o quê? 👀 | `6a4ffdf6283a3008dde0050e` |
 | 2026-07-19 22:02 | - | - | imagem | topo | Levou multa de trânsito? Na maioria das vezes dá para recor… | `6a42f1b62ad14bcf73d3d328` |
 | 2026-07-19 01:25 | - | - | reel | fundo | Plano de saúde negou exame, cirurgia ou internação? Dá pra … | `6a42f185987216ca6f629f60` |
