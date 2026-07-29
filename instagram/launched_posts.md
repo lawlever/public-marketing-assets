@@ -7,6 +7,7 @@ tabela.
 
 | Publicado em | Série | Ep. | Formato | Camada | Legenda (início) | id |
 |---|---|---|---|---|---|---|
+| 2026-07-29 11:01 | caso-da-semana | - | reel | fundo | Sua marca pode estar em risco — e o CNPJ não protege ela. | `6a694d5d431e13a600e95b9a` |
 | 2026-07-28 22:02 | lawlever-responde | - | reel | topo | Produto novo veio com defeito e ninguém resolve? O CDC te d… | `6a501f3a6d6f799272e4a552` |
 | 2026-07-26 21:01 | depende-do-seu-caso | - | reel | meio | Barulho do vizinho de madrugada: dá pra tomar alguma medida… | `6a50371cf50a99bddccbb0f5` |
 | 2026-07-23 22:02 | lawlever-responde | - | reel | topo | Demitido sem justa causa? Antes de assinar a rescisão, saib… | `6a50152d9f213e320040f238` |
