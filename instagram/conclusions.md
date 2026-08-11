@@ -64,3 +64,38 @@ estado atual, e de cima para baixo para ver como o aprendizado evoluiu.
 | empresarial | 3 | 1.50 | 0.00 | 1.50 | 106 |
 
 ⚠️ = menos de 3 posts no corte: sinal fraco, não vire recomendação.
+
+---
+
+## Ciclo 2026-08-11 — modo cold-start (aquisição de audiência)
+
+**Amostra:** 77 posts publicados desde 01/06/2026 · 9.853 views.
+Base ampliada: últimos 100 posts (abr/25 → ago/26) · 19.380 views.
+
+**Conclusão 1 — o perfil não converte espectador em seguidor.**
+0 seguidores em 77 posts. 0 também nos últimos 100. Não é amostra pequena: é
+ausência de mecanismo. Nenhum post publicado promete continuidade, nomeia o
+público ou serializa. Shares 7,7/1k · saves 1,1/1k.
+
+**Conclusão 2 — carrossel está sem alcance nesta conta.**
+reach médio 24 (n=21) contra 135 do Reel (n=45); shares/1k 0,7 contra 8,2.
+Há 25 carrosséis agendados semanalmente até 16/12.
+
+**Conclusão 3 — share vem de identificação, não de didática.**
+Topo por shares/1k: demo do bot 93,5 (n=1, ⚠️), meme do grupo da família 52,2,
+demo com link 27,9, Caso da Semana 18,9. Explicativo de lei fica em ~5.
+Imagem tem o melhor shares/1k por formato (25,4) — mas n=4, ⚠️, não vira regra.
+
+**Conclusão 4 — metade do conteúdo recente está fora da persona.**
+Banco de horas, demitido sem justa causa, grávida, multa de trânsito, plano de
+saúde, herança. Traz view e não traz seguidor: público sem motivo pra voltar.
+`persona.md` já manda descartar tema de quem "perderia o emprego".
+
+**Negócio (P1, com chave):** 12 campanhas, 0 rankeáveis, R$ 0, 0 first-touch.
+Balde `other` vazio — nenhum link ao ar sem registro. Clique fortemente inflado
+por bot (50 bot × 23 humanos no maior boost). Marcador `Ref:` chegando
+corretamente; a ausência de first-touch é armadilha 5, não falha técnica.
+
+**Proposta:** H001 — série "Frase de Cliente" (5 episódios, terças) + 5 posts de
+apoio, todos de topo sem link. Variável: `cta` (CTA de seguir com promessa de
+série numerada). Controle: baseline 0,0 seguidores/1k e 7,7 shares/1k.
