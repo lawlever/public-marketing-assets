@@ -99,3 +99,42 @@ corretamente; a ausência de first-touch é armadilha 5, não falha técnica.
 **Proposta:** H001 — série "Frase de Cliente" (5 episódios, terças) + 5 posts de
 apoio, todos de topo sem link. Variável: `cta` (CTA de seguir com promessa de
 série numerada). Controle: baseline 0,0 seguidores/1k e 7,7 shares/1k.
+
+---
+
+## Ciclo 2026-08-21 — pergunta: qual post traz mais seguidores por 1.000 views?
+
+**P0 não rodou.** O conector do Buffer não estava disponível nesta sessão; a
+análise usa o `experiments.jsonl` consolidado em 09/08 (116 posts, 30.522
+views). Os três primeiros episódios de "Frase de Cliente" (14/08, 18/08, 21/08)
+— justamente os posts desenhados para converter seguidor — **não têm métrica
+lida ainda**.
+
+**Conclusão 1 — não existe vencedor em seguidores/1k no histórico.**
+`follows` = 0 em 116 de 116 posts (jan/25 → ago/26). A pergunta não tem
+resposta na base: não há post a selecionar por esse critério. Duas leituras
+possíveis e ambas precisam ser descartadas antes de agir: (a) o perfil de fato
+não converte (leitura do ciclo 11/08); (b) o Buffer não expõe `follows` por
+post para esta conta — 0 absoluto em 30 mil views, sem nenhum 1, é suspeito de
+instrumentação. **Checar direto no Instagram Insights** (Reel → "Seguidores")
+de um Reel com >600 views antes de concluir qualquer coisa.
+
+**Conclusão 2 — proxy de distribuição (sends+saves/1k, views ≥300, desde jun)
+aponta para conteúdo de identificação, não de lei.**
+Demo do bot com link 27,9 sends/1k (n=1 ⚠️); "bandeira do Brasil como roupa"
+15,2; Caso da Semana 4–5. Nada disso é seguidor — é share. Usar como critério
+de impulsionamento perene seria otimizar a métrica errada.
+
+**Conclusão 3 — impulsionamento perene ("pra sempre") é uma decisão separada
+do ranking criativo.** Armadilha 4: o post impulsionado sai do ranking
+orgânico (`boosted: true`, `paid_spend_brl`) e é julgado por ROI próprio —
+aqui, **custo por seguidor**. Pré-requisitos antes de ligar: (1) escolher o
+post pelo `follows/1k` real, não por proxy; (2) objetivo do boost = visitas ao
+perfil/seguidores, não cliques; (3) anotar gasto semanal no `hypotheses.jsonl`;
+(4) revisar a cada 30 dias — "pra sempre" aqui é "até o custo por seguidor
+subir acima do controle", não literal.
+
+**Decisão recomendada:** esperar a leitura dos EP01–EP03 de Frase de Cliente
+(H013). Se algum deles marcar `follows > 0`, ele é o candidato natural ao boost
+perene (H014). Se todos marcarem 0 com Insights confirmando 0, o problema é de
+mecanismo e impulsionar qualquer post atual compraria view sem seguidor.
