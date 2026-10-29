@@ -16,3 +16,4 @@ Uma linha por trilha usada. Consulte antes de buscar; nenhuma trilha se repete.
 | 2026-09-15 | Frase de Cliente EP 09/10 | SS_LD_85_keys_loop_trackstarter_easy_elec_keys_motif_g.wav | 85 | warm mellow electric piano chords loop, reassuring and simple, documentary explainer bed |
 | 2026-09-18 | Frase de Cliente EP 10/10 | _OSS_NC_97_percussion_drum_loop_bongorainstick_6-8.wav | 97 | clean minimal explainer loop, soft keys and light percussion, calm confident business mood |
 | 2026-09-16 | Reel narrado — A oferta obriga (reel-oferta-obriga-narrado) · mantra: voz raquel | ce_key80_smoothvibes1_Em.wav (6,0 s) | 80 | warm minimal acoustic guitar and soft keys underscore, calm and grounded, subtle, no drums, no vocals, cinematic corporate background bed |
+| 2026-11-06 | O Caso da Semana — salário atrasado (slot-2026-10-30-18h-caso-salario-atrasado) · mantra: voz fernando | sem trilha (voz do advogado) | - | - |
