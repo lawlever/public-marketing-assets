@@ -223,3 +223,84 @@ herança, trânsito: todos ≤ 1 share.
   Ver no Insights se os EPs foram classificados como Reel e qual a taxa de
   "não-seguidores" no alcance. Se continuarem ≤ 30 views, pausar a série e
   retrabalhar o formato (rosto/voz) em vez de queimar os 7 episódios restantes.
+
+---
+
+## 2026-11-06 — ciclo
+
+**Modo: COLD-START (sem receita atribuída).** 176 posts no histórico, 0 com código de campanha. Ranking por interação (sends+saves) por 1.000 views — indicador antecedente, não a verdade de solo. Assim que houver campanhas maduras, o ranking troca sozinho para R$/1k views.
+
+**Top 10 posts:**
+
+| # | post | série | fmt | camada | sends/1k | saves/1k | views |
+|---|---|---|---|---|---|---|---|
+| 1 | parem de gastar dinheiro com burocracia desnecessári | - | reel | topo | 93.53 | 7.19 | 139 |
+| 2 | Todo grupo da família tem um. 😂🚨 | - | imagem | topo | 52.24 | 0.00 | 134 |
+| 3 | NÃO CANCELE CONTRATOS E SAIA NO PREJUÍZO! | - | reel | topo | 49.59 | 0.00 | 242 |
+| 4 | Comprou e se arrependeu? A lei te dá mais poder do q | - | carrossel | topo | 15.38 | 30.77 | 65 |
+| 5 | A LawLever em 3 passos 👇 | - | carrossel | meio | 0.00 | 33.33 | 30 |
+| 6 | Fale com o bot da LawLever agora! Link na bio | - | reel | topo | 27.38 | 0.00 | 694 |
+| 7 | CLIENTE FALIU TE DEVENDO? E AGORA? | - | reel | topo | 24.19 | 0.00 | 124 |
+| 8 | No #OCasoDaSemana de hoje, falo sobre pontos que inq | caso-da-semana | reel | topo | 18.87 | 3.77 | 265 |
+| 9 | EI, VOCÊ ADVOGADO! ☝🏼 | - | carrossel | topo | 6.10 | 12.20 | 164 |
+| 10 | ADVOGADO 24H POR DIA NA PALMA DA SUA MÃO? | - | reel | topo | 8.62 | 8.62 | 116 |
+
+**Por série**
+
+| corte | n | sends/1k | saves/1k | interação/1k | views méd. |
+|---|---|---|---|---|---|
+| caso-da-semana | 7 | 4.71 | 0.74 | 5.45 | 338 |
+| - | 154 | 3.04 | 1.54 | 4.58 | 206 |
+| lawlever-responde | 4 | 0.00 | 0.00 | 0.00 | 90 |
+| depende-do-seu-caso | 3 | 0.00 | 0.00 | 0.00 | 118 |
+
+**Por formato**
+
+| corte | n | sends/1k | saves/1k | interação/1k | views méd. |
+|---|---|---|---|---|---|
+| reel | 95 | 4.02 | 0.81 | 4.83 | 188 |
+| imagem | 27 | 3.16 | 1.02 | 4.19 | 250 |
+| carrossel | 46 | 0.71 | 2.99 | 3.70 | 223 |
+
+**Por camada de funil**
+
+| corte | n | sends/1k | saves/1k | interação/1k | views méd. |
+|---|---|---|---|---|---|
+| topo | 145 | 3.31 | 1.32 | 4.64 | 222 |
+| meio | 19 | 0.82 | 2.65 | 3.46 | 118 |
+| fundo | 4 | 1.10 | 0.00 | 1.10 | 118 |
+
+**Por área**
+
+| corte | n | sends/1k | saves/1k | interação/1k | views méd. |
+|---|---|---|---|---|---|
+| trabalhista | 35 | 5.07 | 1.40 | 6.47 | 184 |
+| outro | 71 | 3.23 | 1.46 | 4.69 | 316 |
+| consumidor | 16 | 2.21 | 1.92 | 4.13 | 118 |
+| dados_digital ⚠️ | 2 | 3.79 | 0.00 | 3.79 | 131 |
+| familia | 5 | 0.00 | 3.45 | 3.45 | 116 |
+| civil_contratos | 20 | 2.31 | 0.54 | 2.85 | 110 |
+| empresarial | 19 | 0.23 | 1.63 | 1.86 | 55 |
+
+⚠️ = menos de 3 posts no corte: sinal fraco, não vire recomendação.
+
+---
+
+## Ciclo 2026-11-06 — diagnóstico de virada (leitura narrativa)
+
+**Amostra:** 176 posts publicados (jan/25 → 06/11/26), métricas lidas no Buffer em 06/11; Insights nativos de 30 e 90 dias; API /fale (90 dias, maturidade 30).
+**Negócio (P1, com chave):** 27 códigos ativos. Instagram orgânico (`ig-bio`) = 9 usuários first-touch em 90 dias, 5 documentos, 1 pagante, R$ 10. Ads click-to-WhatsApp (`120251325293450200`) = 441 usuários, 135 documentos, 1 revisão comprada, R$ 134. Google Ads obra = 103 usuários, R$ 110. Legacy = 34 usuários, R$ 550.
+
+**Conclusão 1 — espiral de queda confirmada.** Mediana de views por post: jul 107 → ago 71 → set 40 → out 51 → nov 28. Shares/mês: 36, 37, 22, 5, 0, 0. Seguidores: 1.260, estáveis; 0 follows atribuídos a post em 90 dias (Insights). Visitas ao perfil em 30 dias: 78; toques no link: 7.
+
+**Conclusão 2 — formato explica quase tudo.** Desde junho: vídeo postado direto no app (rosto do Dr. Eduardo) = mediana 82 views, 10,9 shares/1k, 17 comentários (n=49); vídeo do pipeline (demo/animado) = 58 views, 4,3 shares/1k (n=42); carrossel = 58 views, reach 21, 0,5 shares/1k (n=36). Retenção mediana dos vídeos com duração conhecida: 20% (awt 4–7 s em vídeos de 17–30 s).
+
+**Conclusão 3 — a capa dos 12 Reels de novembro estava no último quadro** (thumbnailOffset no fim do vídeo): o grid mostrava o cartão "Na dúvida, Lawlever" em vez do rosto + gancho. Corrigido hoje nos 9 ainda agendados (offset 500 ms).
+
+**Conclusão 4 — temas largos compartilham; temas estreitos não.** Top shares 2026: demo do bot (19), "burocracia" (13), "não cancele contratos" (12), bandeira do Brasil (9), meme grupo da família (7). Sinal, escopo, distrato, permuta, reajuste: 0 shares cada.
+
+**Decisão deste ciclo (não é experimento, é mudança de regime):** série única "Dr. Eduardo Responde" (dúvida real → resposta em 30 s → ponte + mantra), 5 Reels/semana de segunda a sexta ao meio-dia, carrosséis e demos pausados por 60 dias, loop de comentários (pergunta de comentário em toda legenda, resposta em vídeo às quartas), collabs e impulsionamento com objetivo de seguidores. Detalhe no doc "Virada do Instagram LawLever" e nos 25 roteiros em `roteiros-dr-eduardo-responde-2026-11.md`.
+
+**Métricas do novo regime (ler toda segunda):** seguidores (Insights nativo), views medianas por Reel, retenção média (awt/duração), shares/1k, comentários por Reel, visitas ao perfil, toques no link, first-touch `ig-bio`. Metas: ver doc, seção 9.
+
+**Ações executadas em 06/11:** 9 Reels agendados corrigidos (capa + pergunta de comentário); 9 posts de formato fraco movidos para rascunho no Buffer (3 reprises de junho, 6 carrosséis); fila vazia a partir de 25/11 até a primeira gravação no formato novo.
