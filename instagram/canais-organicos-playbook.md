@@ -82,3 +82,30 @@ Criar ou reativar @eduardopoletto.adv com a mesma foto e bio; todo Reel sai como
 | Sexta | Leitura da semana (Buffer + Insights nativo + TikTok Studio + YouTube Studio); registrar o que funcionou em conclusions.md |
 
 Tudo isso cabe em 2 horas e meia por semana de uma pessoa, mais os 90 minutos de gravação do Eduardo.
+
+---
+
+## 9. Lista inicial de alvos (verificada em 06–07/11/2026, de fora das plataformas; confira no app antes do pitch)
+
+Contagens do agregador Alcance Real (com data) ou de notícias; "n/v" = não verificado. Critério: audiência de prestador de serviço ou de gente em apuros, 5 mil a 300 mil seguidores.
+
+| Prioridade | Quem | Onde | Tamanho | Pedido |
+| --- | --- | --- | --- | --- |
+| 1 | Contador Evoltado (Lucas Lima) | Instagram, TikTok | n/v; #1 finanças BR no Favikon (abr/2026) | Reel de humor "contador x advogado" + indicação aos contadores de MEI |
+| 2 | Pedro Mendes | YouTube, Instagram | n/v; #9 finanças BR, foco em microempreendedor | Vídeo convidado "contrato, cobrança e cliente que não paga" |
+| 3 | Cristiane Prado (@cristianerprado) | Instagram | 274 mil (07/11) | Reel sobre pejotização e contrato PJ |
+| 4 | Renda com Gustavo (@rendacomgustavo) | Instagram | 239 mil (05/11) | Live sobre hóspede/plataforma de temporada |
+| 5 | Lucre Brás (@lucrebras) | Instagram | 288 mil (06/11) | Reel "fornecedor sumiu: o que fazer em 24 h" |
+| 6 | Caneca Básica (@canecabasica), Abacaxi Sublimático (@abacaxisublimatico) | Instagram | 231 mil / 282 mil (06/11) | "Cliente cancelou o personalizado: pode cobrar?" |
+| 7 | Antonio Galvão (@antoniogalvaont) | Instagram | 342 mil (05/11) | Live "cobrança abusiva e negativação indevida" |
+| 8 | Theandra Almeida (@theandraalmeidac), Amanda Holzer (@amandaholzer) | Instagram | 106 mil / 58 mil (05/11) | Collab "contrato de freela em 3 minutos" |
+| 9 | Mayara Junges (@mayarajunges), Juliana Martins (@juliana.m.martins) | Instagram, YouTube | n/v (listas Makrosystem/Favikon) | Live para comunidade de contadores (B2B2C) |
+| 10 | Sebrae, "Terça de Quem Empreende" | YouTube | programa semanal desde nov/2024 | Episódio "contratos e cobrança para MEI" |
+| 11 | Cora (banco PJ) | programa de conteúdo | sala de imprensa cora.com.br | História de usuário + conteúdo sobre contratos PJ |
+| 12 | Isabel Rocha (@isabelrocha_trabalhista), Anna Paola (@euannapaola) | Instagram | 43 mil / 126 mil | Reel de dúvida da audiência deles |
+
+Alternativas com contagem: @legalmente.julia 127 mil e @lucianoresponde 237 mil (nicho a confirmar), @feedautentico 252 mil, @jessica.traves 83 mil, @falavendedor 102 mil, @guideggan 19 mil. Sem contagem: Contabilizei (YouTube @contabilizeibr), @fernandarocha.nucont, @contabilidadeconsultiva, @contabilidadefacilitada, Startupi (Instagram).
+
+**Comunidades:** Comunidade Sebrae (curadoria em 48 h; promoção pura é recusada, conteúdo de especialista passa) · Respostas Sebrae (perguntas de MEI sem resposta) · Fórum Contábeis · r/brasil (3,4 mi) e r/empreendedorismo (ler regras) · grupos de Facebook de MEI/freelancer/inquilino/consumidor (buscar logado) · JusBrasil (30 mi de visitantes únicos/mês; verificar a seção de perguntas logado como o Eduardo) · Plantão Contnews "Contabilidade para MEI" (live com convidado).
+
+**Imprensa:** Exame PME (redacao@exame.com, releases@exame.com) · Startups.com.br legaltech (formulário; Gabriela Del Carmen) · Startupi (Instagram/newsletter) · Empório do Direito (aceita autores) · Consumidor Moderno, Times Brasil, LexLegal (cobrem IA no direito) · Jornal Contábil e Contábeis (MEI semanal) · Agência Sebrae de Notícias · NSC Total e Acontecendo Aqui (SC). Banco de fontes: Press Voice / Press Manager (pressmanager.com.br/pressvoice).
